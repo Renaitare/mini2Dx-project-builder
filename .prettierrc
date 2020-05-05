@@ -1,0 +1,13 @@
+{
+	"arrowParens": "avoid",
+	"semi": true,
+	"useTabs": true,
+	"tabWidth": 4,
+	"endOfLine": "lf",
+	"singleQuote": true,
+	"trailingComma": "es5",
+	"svelteSortOrder": "styles-scripts-markup",
+	"svelteStrictMode": true,
+	"svelteBracketNewLine": false,
+	"svelteAllowShorthand": false
+}
